@@ -56,5 +56,5 @@ You can use the `optuna_UniCrossFi_launch.py` script to perform hyperparameter o
 
 ## **🙋 Support**
 
-If you encounter any issues or need assistance, feel free contact us zhiyongzheng@mail.ustc.edu.cn.
+If you encounter any issues or need assistance, please feel free contact us zhiyongzheng@mail.ustc.edu.cn.
 
