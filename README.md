@@ -29,9 +29,9 @@
 </div>
 
 
-This is the official open-source implementation of:
-
- [UniCrossFi: A Unified Framework for Cross-Domain Wi-Fi-based Gesture Recognition](https://arxiv.org/abs/2310.06328).
+This is the official open-source implementation of <a href="https://arxiv.org/abs/2310.06328" target="_blank">
+UniCrossFi: A Unified Framework for Cross-Domain Wi-Fi-based Gesture Recognition
+</a>.
 
 ##  **📘Abstract**
 
