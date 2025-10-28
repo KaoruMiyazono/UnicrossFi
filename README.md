@@ -1,8 +1,6 @@
 <h1 align="center">UniCrossFi: A Unified Framework For Cross-Domain Wi-Fi-based Gesture Recognition</h1>
 
 <div align="center">
-
-<div align="center">
   <a href="https://arxiv.org/abs/2310.06328" target="_blank">
     <img src="https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=B31B1B" alt="arXiv Paper" style="margin-right: 8px;">
   </a>
