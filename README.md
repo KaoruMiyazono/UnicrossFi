@@ -27,7 +27,7 @@
         Jiangtao Wang
     </a>
 </div>
-This is the official open-source implementation of [**UniCrossFi: A Unified Framework for Cross-Domain Wi-Fi-based Gesture Recognition**](https://arxiv.org/abs/2310.06328).
+This is the official open-source implementation of [UniCrossFi: A Unified Framework for Cross-Domain Wi-Fi-based Gesture Recognition](https://arxiv.org/abs/2310.06328).
 
 ##  **📘Abstract**
 
