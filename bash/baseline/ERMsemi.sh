@@ -1,0 +1,99 @@
+CUDA_LAUNCH_BLOCKING=1 python3 /opt/data/private/FDAARC/run_uda.py \
+    --data_dir "/opt/data/private/ablation_study/data_widar_800/tdcsi/" \
+    --csidataset "Widar3.0" \
+    --method "ERM" \
+    --cross_domain_type "location" \
+    --target_domain "location1" \
+    --device "cuda:0" \
+    --num_classes 6 \
+    --batch_size 128 \
+    --early_stop_epoch 25 \
+    --lr 0.0009524071777715331 \
+    --weight_decay 0.000989507137722106 \
+    --epoch 70 \
+    --ratio 0.1 \
+    --backbone "ResNet" \
+    --classify "nonlinear" \
+    --checkpoint_path '/opt/data/private/FDAARC/checkpoints/SimCLR/Widar3.0/location/location1/checkpoint_seed42.pth' \
+    --freeze_enc \
+    --seed 42
+
+python3 /opt/data/private/FDAARC/run_uda.py \
+    --data_dir "/opt/data/private/ablation_study/data_widar_800/tdcsi/" \
+    --csidataset "Widar3.0" \
+    --method "ERM" \
+    --cross_domain_type "location" \
+    --target_domain "location1" \
+    --device "cuda:0" \
+    --num_classes 6 \
+    --batch_size 128 \
+    --early_stop_epoch 25 \
+    --lr 0.0009524071777715331 \
+    --weight_decay 0.000989507137722106 \
+    --epoch 70 \
+    --ratio 0.3 \
+    --backbone "ResNet" \
+    --classify "nonlinear" \
+    --checkpoint_path '/opt/data/private/FDAARC/checkpoints/SimCLR/Widar3.0/location/location1/checkpoint_seed42.pth' \
+    --freeze_enc \
+    --seed 42
+
+python3 /opt/data/private/FDAARC/run_uda.py \
+    --data_dir "/opt/data/private/ablation_study/data_widar_800/tdcsi/" \
+    --csidataset "Widar3.0" \
+    --method "ERM" \
+    --cross_domain_type "location" \
+    --target_domain "location1" \
+    --device "cuda:0" \
+    --num_classes 6 \
+    --batch_size 128 \
+    --early_stop_epoch 25 \
+    --lr 0.0009524071777715331 \
+    --weight_decay 0.000989507137722106 \
+    --epoch 70 \
+    --ratio 0.5 \
+    --backbone "ResNet" \
+    --classify "nonlinear" \
+    --checkpoint_path '/opt/data/private/FDAARC/checkpoints/SimCLR/Widar3.0/location/location1/checkpoint_seed42.pth' \
+    --freeze_enc \
+    --seed 42
+
+python3 /opt/data/private/FDAARC/run_uda.py \
+    --data_dir "/opt/data/private/ablation_study/data_widar_800/tdcsi/" \
+    --csidataset "Widar3.0" \
+    --method "ERM" \
+    --cross_domain_type "location" \
+    --target_domain "location1" \
+    --device "cuda:0" \
+    --num_classes 6 \
+    --batch_size 128 \
+    --early_stop_epoch 25 \
+    --lr 0.0009524071777715331 \
+    --weight_decay 0.000989507137722106 \
+    --epoch 70 \
+    --ratio 0.7 \
+    --backbone "ResNet" \
+    --classify "nonlinear" \
+    --checkpoint_path '/opt/data/private/FDAARC/checkpoints/SimCLR/Widar3.0/location/location1/checkpoint_seed42.pth' \
+    --freeze_enc \
+    --seed 42
+
+python3 /opt/data/private/FDAARC/run_uda.py \
+    --data_dir "/opt/data/private/ablation_study/data_widar_800/tdcsi/" \
+    --csidataset "Widar3.0" \
+    --method "ERM" \
+    --cross_domain_type "location" \
+    --target_domain "location1" \
+    --device "cuda:0" \
+    --num_classes 6 \
+    --batch_size 128 \
+    --early_stop_epoch 25 \
+    --lr 0.0009524071777715331 \
+    --weight_decay 0.000989507137722106 \
+    --epoch 70 \
+    --ratio 0.9 \
+    --backbone "ResNet" \
+    --classify "nonlinear" \
+    --checkpoint_path '/opt/data/private/FDAARC/checkpoints/SimCLR/Widar3.0/location/location1/checkpoint_seed42.pth' \
+    --freeze_enc \
+    --seed 42

@@ -1,0 +1,72 @@
+
+
+
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "room" --target_domain "room0" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 0
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "room" --target_domain "room0" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 1
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "room" --target_domain "room0" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 2
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "room" --target_domain "room0" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 3
+
+
+
+
+
+
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "room" --target_domain "room1" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 0
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "room" --target_domain "room1" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 1
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "room" --target_domain "room1" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 2
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "room" --target_domain "room1" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 3
+
+
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "location" --target_domain "location0" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 0
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "location" --target_domain "location0" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 1
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "location" --target_domain "location0" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 2
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "location" --target_domain "location0" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 3
+
+
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "location" --target_domain "location1" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 0
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "location" --target_domain "location1" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 1
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "location" --target_domain "location1" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 2
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "location" --target_domain "location1" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 3
+
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "room" --target_domain "room1" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 3
+
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "location" --target_domain "location2" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 0
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "location" --target_domain "location2" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 1
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "location" --target_domain "location2" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 2
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "location" --target_domain "location2" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 3
+
+
+
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user0" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 0
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user0" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 1
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user0" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 2
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user0" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 3
+
+
+
+
+
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user1" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 0
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user1" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 1
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user1" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 2
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user1" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 3
+
+
+python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user2" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 0
+python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user2" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 1
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user2" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 2
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user2" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 3
+
+
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user3" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 0
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user3" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 1
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user3" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 2
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user3" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 3
+
+
+
+
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user4" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 0
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user4" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 1
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user4" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 2
+# python3 -u run_uda.py --data_dir ""/opt/data/private/ablation_study/data_CSIDA_wigrunt"" --csidataset "CSIDA" --method "WiGRUNT" --inputshape 228 1800 --cross_domain_type "user" --target_domain "user4" --device "cuda:0"  --lr 0.0002260700759740943 --weight_decay 0.04060737440522549 --epochs 100 --batch_size 128  --early_stop_epoch 20   --seed 3
