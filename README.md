@@ -62,3 +62,14 @@ You can use the `optuna_UniCrossFi_launch.py` script to perform hyperparameter o
 
 If you encounter any issues or need assistance, please feel free contact us zhiyongzheng@mail.ustc.edu.cn.
 
+## **📖 Citation**
+
+```
+@article{xu2023antenna,
+  title={Antenna Response Consistency Driven Self-supervised Learning for WIFI-based Human Activity Recognition},
+  author={Xu, Ke and Wang, Jiangtao and Zhu, Hongyuan and Zheng, Dingchang},
+  journal={arXiv preprint arXiv:2310.06328},
+  year={2023}
+}
+```
+
