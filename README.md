@@ -58,7 +58,7 @@ You can use the `optuna_UniCrossFi_launch.py` script to perform hyperparameter o
 + [CSIDA](https://pan.baidu.com/s/1p-DYPv2xDBEJIWqLMb3Tfg?pwd=byvj)
 + [Widar3.0](https://tns.thss.tsinghua.edu.cn/widar3.0/)
 
-To mask you  quickly start of our code, we also release the **subset of the Widar dataset** **we usd**(six actions under R2 ). 
+To mask you  quickly start  our code, we also release the **subset of the Widar dataset** **we usd**(six actions under R2 ). 
 Dataset download link: [Baidu Netdisk](https://pan.baidu.com/s/1GcgDrAVPnznX4EnL-6QcCQ?pwd=1qmf) (access code: `1qmf`).
 
 ## **🙋 Support**
